@@ -59,6 +59,7 @@
     "strapi-generate-plugin": "3.0.0-beta.19.3",
     "strapi-generate-policy": "3.0.0-beta.19.3",
     "strapi-generate-service": "3.0.0-beta.19.3",
+    "strapi-telemetry": "3.0.0-beta.19.3",
     "strapi-utils": "3.0.0-beta.19.3"
   },
   "scripts": {
